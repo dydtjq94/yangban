@@ -4,36 +4,11 @@ const headerForAd = document.querySelector(`.header`)
 const appVersion = '0.504'
 
 function init() {
-  footer.innerHTML = ` <div class="contact">
-    <a href="mailto:dydtjq94@yonsei.ac.kr" class="contact_me">
-      문의
-    </a>
-    <a href="/analysis" class="contact_me">
-      관상 해석
-    </a>
-    <a href="/blog" class="contact_me">
-      개발 블로그
-    </a>
-  </div>
-  <div class="footer_text_wrap">
-    <span class="footer_company">AI양반 | NMAX (엔맥스)</span>
-  </div>
-  <div class="footer_text_wrap">
-    <span class="footer_ceo">대표자 : 윤용섭</span>
-    <span class="footer_business_num">사업자등록번호 : 418-12-65319</span>
-  </div>
-  <div class="footer_text_wrap">
-    <span class="footer_sales_num">
-      통신판매업신고번호 : 2023-성남분당B-0437
-    </span>
-  </div>
-  <div class="footer_text_wrap">
-    <span class="footer_address">
-      주소 : 경기도 성남시 분당구 판교로 421, 3층
-    </span>
-  </div>
+  footer.innerHTML = ` 
+ 
+  
   <span class="footer_text_wrap">
-    ⓒ 2023. NMAX, All Rights Reserved. App Version: ${appVersion}
+    ⓒ 2023. NMAX, All Rights Reserved. 
   </span>`
 
   // if (bottomAd) {
