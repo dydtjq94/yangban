@@ -5,6 +5,31 @@ const appVersion = '0.504'
 
 function init() {
   footer.innerHTML = ` 
+  <div>
+  <a href="/blog">AI 블로그</a>
+  </div>
+  <div>
+  <a href="/blog/post/5g.html">5g</a>
+  <a href="/blog/post/10.html">10</a>
+  <a href="/blog/post/11.html">11</a>
+  <a href="/blog/post/12.html">12</a>
+  <a href="/blog/post/13.html">13</a>
+  <a href="/blog/post/14.html">14</a>
+  <a href="/blog/post/15.html">15</a>
+  <a href="/blog/post/16.html">16</a>
+  <a href="/blog/post/17.html">17</a>
+  <a href="/blog/post/18.html">18</a>
+  </div>
+  <div>
+  <a href="/blog/post/alter.html">alter</a>
+  <a href="/blog/post/code.html">code</a>
+  <a href="/blog/post/company.html">company</a>
+  <a href="/blog/post/fb.html">fb</a>
+  <a href="/blog/post/fear.html">fear</a>
+  <a href="/blog/post/know.html">know</a>
+  <a href="/blog/post/mind.html">mind</a>
+  <a href="/blog/post/tech.html">tech</a>
+  </div>
  
   
   <span class="footer_text_wrap">
